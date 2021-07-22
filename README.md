@@ -26,4 +26,4 @@ Gmail account is required for the email notifications, and the unique authentica
 must be first configured by the user through navigating: Gmail -> Account -> Security.
 A link in the program has been given to help setup permissions by clicking '?' beside the password input.
 
-To use: Simply download the WaitlistNotifierEXE folder and run the WaitlistNotifier.exe program.
+To use: Simply download the exe folder and run the WaitlistNotifier.exe program.
