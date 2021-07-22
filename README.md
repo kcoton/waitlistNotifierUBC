@@ -27,3 +27,9 @@ must be first configured by the user through navigating: Gmail -> Account -> Sec
 A link in the program has been given to help setup permissions by clicking '?' beside the password input.
 
 To use: Simply download exe/WaitlistNotifier.zip, extract, and run the WaitlistNotifier.exe program.
+
+# Details
+Created in July 2021 using the following:
+- JSoup Web Scraper
+- JavaFX SceneBuilder
+- JavaMail + Gmail SMTP Integration
